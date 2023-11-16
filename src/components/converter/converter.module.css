@@ -1,0 +1,50 @@
+.container {
+    width: 360px;
+    height: 751px;
+    
+    background-color: #EAEAFE;
+}
+
+.title {
+    padding-top: 50px;
+}
+
+.block {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    width: 320px;
+    height: 268px;
+    border: 1px solid #E7E7EE;
+    border-radius: 10px;
+    background-color: #FFFFFF;
+    margin-left: 20px;
+    box-shadow: rgba(33, 35, 38, 0.1) 0px 10px 10px -10px;
+}
+
+.first_block {
+    display: flex;
+    flex-direction: row;
+}
+
+.second_block {
+    display: flex;
+    flex-direction: row; 
+}
+
+.rate {
+    margin-right: 120px;
+    margin-top: 20px;
+}
+
+h1 {
+    color: #1F2261;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+h3 {
+    color: #808080;
+    font-size: 16px;
+    font-weight: 400;
+}

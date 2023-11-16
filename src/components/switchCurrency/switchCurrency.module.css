@@ -1,0 +1,10 @@
+.btn {
+    width: 44px;
+    height: 44px;  
+    border-radius: 50px;
+    background-color: #26278D;
+    color: #FFFFFF;
+    cursor: pointer;
+    animation: bounce;
+    animation-duration: 2s;
+}
